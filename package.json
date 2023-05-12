@@ -1,0 +1,18 @@
+{
+    "dependencies": {
+        "@types/download": "^8.0.2",
+        "@types/tmp": "^0.2.3",
+        "axios": "^0.27.2",
+        "download": "^8.0.0",
+        "fast-xml-parser": "^4.2.2",
+        "tmp": "^0.2.1"
+    },
+    "devDependencies": {
+        "@types/node": "16.11.59",
+        "@types/switch-scripting": "https://github.com/enfocus-switch/types-switch-scripting/archive/22.1.1.tar.gz"
+    },
+    "license": "UNLICENSED",
+    "name": "getappicon",
+    "private": true,
+    "version": "0.0.1"
+}
